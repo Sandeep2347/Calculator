@@ -48,6 +48,6 @@
     font-size:25px;
 }
 body{
-    background-image: linear-gradient(green , pink, orange);
+    background-image:linear-gradient(black,white);
     height:100vh;
 }
